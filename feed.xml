@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Esports</title>
+    <link>https://rocco-escudero-iedib.com/</link>
+    <description>Esports</description>
+    <language>ca</language>
+    
+    <item>
+      <title>Notícia 1: Títol de la notícia</title>
+      <link>https://github.com/RoccoEscudero/Lliurament-5/blob/main/noticia1.html</link>
+      <description>Gerard Piqué a declarar</description>
+      <pubDate>Tue, 12 Feb 2025 10:00:00 +0000</pubDate>
+      <author>autor@exemple.com (Nom de l'autor)</author>
+      <category>Actualitat</category>
+    </item>
+  </channel>
+</rss>
